@@ -4,8 +4,8 @@
 
 [resource]
 script = ExtResource("1_v0dqr")
-title = ""
-description = ""
+title = "Escapa del Laberinto de Memorias"
+description = "Las sombras de tu pasado han cobrado vida, transformándose en criaturas hambrientas que acechan en cada esquina de este laberinto mental. Los muros susurran secretos que preferirías olvidar, mientras los ecos de batallas perdidas resuenan en la oscuridad. Sin armas ni armadura que te protejan, tu única esperanza es la velocidad de tus pasos y la astucia para mantenerte oculto. Navega por los senderos tortuosos de tu propia mente, esquiva a los monstruos reencarnados de tus memorias más dolorosas, y encuentra la salida antes de que el peso de tus traumas te consuma por completo."
 authors = Array[String]([])
 affiliation = ""
 first_scene = "uid://1rkwb62fhjg6"
